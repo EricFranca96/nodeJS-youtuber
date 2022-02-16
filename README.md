@@ -15,3 +15,6 @@ git checkout -b nomeDaBranch
 Para visualizar o status da branch eu dou 
 git status
 
+Commitando a branch, para commitar a branch usarei a seguinte forma
+git commit -m "#Readme verificando status da branch"
+
