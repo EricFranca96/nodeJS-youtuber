@@ -11,3 +11,7 @@ fix-nomeDaAuteração
 
 Para criar uma nova branch usarei o seguinte comando
 git checkout -b nomeDaBranch
+
+Para visualizar o status da branch eu dou 
+git status
+
